@@ -23,7 +23,7 @@ class NotFound extends React.Component {
         return (
             <NotFoundContainer>
                 <TextContainer style={{ textAlign: "center" }}>
-                    <div style={{ maxWidth: "300px" }}><img style={{ width: "100%" }} src={Image404}></img></div>
+                    <div style={{ maxWidth: "300px" }}><img style={{ width: "100%" }} src={Image404} alt="Page Not Found 404"></img></div>
                     <p>Has llegado a un típico caso de 404, foraster@. La página que has venido a buscar... ya no está aquí</p>
                 </TextContainer>
 
