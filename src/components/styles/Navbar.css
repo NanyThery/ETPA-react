@@ -1,0 +1,25 @@
+
+.container {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.item {
+    padding: 5px 10px;
+    text-decoration: none;
+    margin: 5px; 
+    color: var(--resultar-text-color);
+    font-family: var(--special-font)
+}
+
+.activeLink{
+    background: var(--main-title-red);
+    color: white; 
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+
+
+
+

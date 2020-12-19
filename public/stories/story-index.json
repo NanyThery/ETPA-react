@@ -1,0 +1,32 @@
+{
+    "stories": [
+        {
+            "title": "La expedición temporal",
+            "author": "Nadine Thêry",
+            "img": "https://picsum.photos/200/300?random=1",
+            "link": "/",
+            "id": "ST-0001"
+        },
+        {
+            "title": "Otra Historia de Ejemplo",
+            "author": "Autor von Ejemplo Exempla",
+            "img": "https://picsum.photos/200/300?random=2",
+            "link": "/story",
+            "id": "ST-0002"
+        },
+        {
+            "title": "Un ejemplo para recordar",
+            "author": "Autor desconocido",
+            "img": "https://picsum.photos/200/300?random=3",
+            "link": "#",
+            "id": "ST-0003"
+        },
+        {
+            "title": "Cuando el ejemplo llama a tu puerta",
+            "author": "Autor poco inspirado",
+            "img": "https://picsum.photos/200/300?random=4",
+            "link": "#",
+            "id": "ST-0004"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "id": "ST-0001",
+    "title": "La expedición temporal",
+    "img": "https://picsum.photos/200/300?random=1",
+    "author": "Nadine Thêry",
+    "volume": "1",
+    "paragraphs": [
+        {
+            "id": "start",
+            "text": "Te despiertas sobresaltad@ por el odioso ruido del timbre. Es extraño, no recordabas que tu timbre sonara así. Abres los ojos. Son las 8.30 de la mañana, del 2 de junio de 2058, hace calor y el sol parte la tierra. Además hay un rayo de sol que está cocinando tu pie lentamente y ahora que te has despertado eres consciente de él.  \n \n  A pesar de eso, sientes que tu cuerpo es de plomo, estás cansad@. Por más que intentas hacer memoria, no recuerdas por qué. Con esta pesadez te debates entre seguir durmiendo hasta que tu cuerpo quiera o bajar a abrir.",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Seguir durmiendo",
+                    "output": "text-01a"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Bajar a ver quién es",
+                    "output": "text-01b"
+                }
+            ]
+        },
+        {
+            "id": "text-01a",
+            "text": "Te tapas con la sábana hasta la cabeza para evitar la luz del sol y te giras hacia la derecha. No tienes ganas de levantarte, ya volverán.  \n \n Te levantas tarde, aunque te sientes bastante mejor. Aunque parece que ésta es tu casa, te sientes como un@ intrus@. Bajas las escaleras hacia la planta baja.  \n \n Por debajo de la puerta alguien ha dejado una nota \n \"Llámame cuando despiertes: 555-6547\"",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Llamar al número de teléfono",
+                    "output": "text-02"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Ignorarlo y seguir con tu vida",
+                    "output": "text-03"
+                }
+            ]
+        },
+        {
+            "id": "text-01b",
+            "text": "Un poco de mal humor, te levantas, te vistes con lo primero que encuentras al lado de la cama y bajas a ver quién está llamando tan insistentemente. \n \n Un chica joven te mira con una expresión entre molesta y divertida.  \n \n - ¡Por fin! - dice - ¡Venga, sube al coche no tenemos tiempo que perder!  \n \n No tienes mucha opción, te arrastra al coche y éste se pone en marcha. En un trayecto de unos 15 minutos, completamente en silencio y confusos, llegáis frente a una casa sin nada de especial. Parece una simple casa residencial.  \n \n - Nos están esperando - dice la chica señalando a un grupo de tres personas que esperan junto a la puerta.  \n \n Empiezas a ponerte nervios@. Por alguna razón todos te conocen, pero tú a ellos no...",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Preguntar quién eres",
+                    "output": "text-04"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Salir corriendo",
+                    "output": "text-05"
+                }
+            ]
+        },
+        {
+            "id": "text-02",
+            "text": "Te ha costado un tiempo encontrar el teléfono móvil. Es raro que no le hayas puesto ninguna contraseña ni tampoco un pin de acceso, tienes que arreglar eso más tarde. Con todo, menos mal que no lo has hecho, porque eres incapaz de acordarte de cuál era, si es que tenías uno.  \n \n - ¡Por fin!, te ha costado, ¿eh? - dice la voz de una chica al otro lado del teléfono - en 20 minutos estoy allí. Prepárate para salir.  \n \n Estás completamente confus@, parecía conocerte pero no te sonaba de nada su voz. Te vistes con lo primero que encuentras por la habitación, cuando suena el timbre nuevamente. \n \n  Un chica joven te mira con una expresión entre molesta y divertida. Parece que es la chica del teléfono.  \n \n - Podrías haberte peinado... - dice -¡Venga, sube al coche no tenemos tiempo que perder!  \n \n No tienes mucha opción, te arrastra al coche y se pone en marcha. En un trayecto de unos 15 minutos, completamente en silencio y confusos, llegáis frente a una casa sin nada de especial. Parece una simple casa residencial.  \n \n - Nos están esperando - dice la chica señalando a un grupo de tres personas que esperan junto a la puerta.  \n \n Empiezas a ponerte nervios@. Por alguna razón todos te conocen, pero tú a ellos no...",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Preguntar quién eres",
+                    "output": "text-04"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Salir corriendo",
+                    "output": "text-05"
+                }
+            ]
+        },
+        {
+            "id": "text-03",
+            "text": "Decides ignorar todo esto. Al fin y al cabo te has mudado hace poco y no conoces a nadie aquí. Quienquiera que fuera, seguro que se ha equivocado. Las aventuras no son lo tuyo.",
+            "options": []
+        },
+        {
+            "id": "text-04",
+            "text": "- Vaya - dice la chica mientras te acompaña al interior de la vivienda - parece que esta vez te está costando más volver que otras... esto empieza a ser preocupante. No te preocupes, es cuestión de tiempo que todo vuelva a tener sentido, es mejor que no lo forcemos.  \n \n Lo que parecía una casa normal, resultó ser una tapadera para unas instalaciones subterráneas de la leche. Un súper laboratorio se abre ante ti cuando bajáis en un pequeño ascensor que hay junto a las escaleras enmoquetadas.  \n \n Estaban a punto de conducirte a lo que ellos llaman \"tu habitación\" pero de repente una escadalosa sirena pone a todo el mundo en tensión.  \n \n - ¿qué tenemos? - pregunta la chica a un operario que hay frente a una gran máquina.  \n \n - 8 de agosto, Tinian, Islas Marianas. Según nuestro informate en ese período, alguien está intentando asesinar al piloto del Enola Gay y evitar que se tire la bomba en Hiroshima al día siguiente  \n \n - ¡Pero la bomba atómica supuso el final de la Segunda Guerra Mundial!, si no la tiran quién sabe qué más podría haber pasado... no tenemos tiempo que perder, vámonos, te dice la chica-  \n \n Estás flipando mucho, la verdad. No entiendes nada. \n \n - Te lo explico por el camino, no hay tiempo para vueltas suaves.",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Vamos, no sé de qué habla, pero parece importante",
+                    "output": "text-11"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Ni hablar, yo me quedo, esta gente está loca",
+                    "output": "text-06"
+                }
+            ]
+        },
+        {
+            "id": "text-05",
+            "text": "La situación te supera, no conoces a nadie. Ellos a ti sí. No sabes dónde estás. Te cuesta respirar. Necesitas salir de aquí.  \n \n Corres durante al menos 10 minutos, sin mirar atrás. Pero la verdad es que nadie te ha detenido. Ni tampoco te han seguido. Pensándolo con más calma, tampoco sabes hacia dónde te diriges. Nada de lo que te rodea te es familiar. No hay nadie en la calle. Coges el móvil para poner el GPS de vuelta a casa, pero no tienes cobertura.  \n \n Bueno, \"Volver a casa\" es una forma de hablar. Aquella casa en la que despertaste, parecía tuya... pero no la sentías como tu hogar ¿qué está pasando?.  \n \n Analizándolo fríamente solo tienes dos opciones:",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Volver a la casa de la que escapaste",
+                    "output": "text-06"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Intentar volver a \"tu casa\"",
+                    "output": "text-07"
+                }
+            ]
+        },
+        {
+            "id": "text-06",
+            "text": "A pesar de tu actitud, nadie se extraña. Te tratan con amabilidad y te conducen a lo que ellos llamaron \"tu habitación\".  \n \n Nada más cruzar la puerta, una foto tuya con tu amiga Liz azota tu memoria. Los recuerdos se agolpan, en desorden. Pero ya todo está claro.  \n \n - ¡Mi diario!, ¿Dónde está mi diario? - dices en voz alta, aunque sólo estás tú ahí.  \n \n - Tengo que apuntarlo todo antes de que algo se pierda para siempre... \n \n De repente, dos golpes cortos en la puerta te sacan de tu estado de obsesión por un momento. Es Liz.  \n \n - Eh, me alegro de que hayas vuelto por fin. Imagino que estás con la rutina del diario, pero no tenemos tiempo para eso. Acaba de saltar la alarma de alteración temporal en 1933. Si no nos vamos ya, puede que la historia cambie para siempre.  \n \n Las urgencias temporales son así, si te despistas puede que sea demasiado tarde para volver y arreglarlo, porque tu realidad quizás no tenga tecnología para viajar en el tiempo debido a los cambios. Pero por otro lado, si no haces la rutina del diario, sabes que olvidarás todo lo que pasó en la última misión. Los viajes temporales, nunca fueron gratis.",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Atender la alerta temporal, parece importante",
+                    "output": "text-08"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Hacer la rutina del diario, puede que lo que pasó sea vital para siguientes misiones",
+                    "output": "text-13"
+                }
+            ]
+        },
+        {
+            "id": "text-07",
+            "text": "Caminas hasta que se hace de noche. Deshaciendo los pasos que crees que recorrió el coche. Pero te has perdido. Estás perdid@, hambrient@ y, para qué engañarnos, triste. Te sientes sol@ y desolad@. Encuentras un banco y decides acostarte, al menos has podido beber agua de una fuente. Seguramente mañana lo veas todo con más claridad.  \n \nAl amanecer, no puedes creer lo que ves. El banco estaba justo enfrente de la casa extraña de la que habías huído el día anterior. Algo en ti te dice que no tienes muchas opciones. ",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Rendirte y entrar en la casa",
+                    "output": "text-06"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Seguir huyendo y no entrar jamás. Esa casa no te da buena espina.",
+                    "output": "text-10"
+                }
+            ]
+        },
+        {
+            "id": "text-08",
+            "text": "Como imaginabas, un loco quería matar a Hitler mientras pintaba unos cuadros en la calle. Lo habéis detenido a tiempo, afortunadamente para la integridad temporal. Aunque no tienes claro que lo sea también para la humanidad. \n \n Vaya si habría cambiado la historia si hubieran matado a Hitler... a veces te preguntas si haces bien en preservar la historia. Hay días que lo ves claro. Otros días no tanto... hoy era uno de ellos. Mientras Liz se lleva al detenido a las dependencias de la policía germana, reflexionas en silencio. Recuerdas que esta es tu última misión. Nadie lo sabe.  \n \n Si vuelves, jamás recuperarás tus recuerdos. Vivirás muchos años, no necesitarás trabajar, tu pensión del gobierno temporal secreto te asegura una cómoda jubilación (con 35 años).  \n \n Sin embargo, no sabrás quién eres, no reconocerás a tus amigos, ni a tu familia, ni tan si quiera a tu perro (que está ahora con tus padres). No tendrás raíces, ni un país, ni sentirás jamás que perteneces a ningún sitio. Tendrías que empezar una vida nueva, como si volvieras a nacer, pero solo. Además, el Gobierno Temporal no te dejará acceder a tu vida anterior, por lo que tampoco podrás reconstruir tu memoria. El protocolo es muy estricto con el Síndrome Memorístico Intertemporal.  \n \n O puedes quedarte y vivir con tus recuerdos en el Berlín de 1933. Sabes lo que va a pasar, pero no debes cambiar la historia. Si decides quedarte, tendrás que ser muy caut@ y esconderte del Ministerio para que no te atrapen.",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Volver y empezar una vida sol@.",
+                    "output": "text-09"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Quedarte en Berlín de 1933 e intentar no cambiar la historia.",
+                    "output": "text-12"
+                }
+            ]
+        },
+        {
+            "id": "text-09",
+            "text": "Cuando Liz vuelve de las dependencias policiales camináis junt@s hacia el punto de extracción. Mandáis un mensaje para que os recojan... Por última vez, recorres tus recuerdos más felices y sonríes, aferrándote mentalmente a ellos. Solo te quedas con los buenos. Liz te mira como si estuvieras loc@. Pero con solo cruzar la mirada, lo entiende. Asiente con la cabeza y te dice: no te preocupes, no estarás sol@. Encontraremos la manera de traerte de vuelta.",
+            "options": []
+        },
+        {
+            "id": "text-10",
+            "text": "No recuerdas mucho, pero sabes que eres cabezota. Si has dicho que no vas a entrar ahí, no vas a entrar. Decides andar, hasta que tu cuerpo no de más de sí. Caminas durante al menos 5 horas a un ritmo constante. Y llegas a lo que parece el fin de la ciudad. Incluso el fin del mundo. Un gran precipicio rodea la ciudad. Y no se ve el fondo, ni otro margen. No parece que saltar sea una opción. \n \n No sabes qué es esto, pero parece que no hay escapatoria. Intentas comer algo entrando a algunas de las casas, pero están todas completamente vacías. Nunca consigues volver encontrar aquella casa en la que despertaste el primer día. Y cada mañana despiertas frente a la casa de la que huiste. Ocasionalmente, la chica que te recogió te invita a entrar con una sonrisa triste, pero te niegas. Y hay días que encuentras algo de comida junto al banco.         \n \n Algo en tu mente se ha roto definitivamente.",
+            "options": []
+        },
+        {
+            "id": "text-11",
+            "text": "De camino a la máquina, Liz, la chica, te hace un resumen: eres un@ agente intertemporal. La última misión te retuvo en 1348 en pleno auge de la Peste Negra en España. Resolviste el problema y evitaste el cambio histórico. Pero tanto tiempo fuera de tu línea te ha causado daños cerebrales irreversibles. Tienes claros síntomas de Síndrome Memorístico Interemporal. Tu jubilación forzada es inminente. Aunque Liz te pone al día, no consigues recordar nada más allá del último día... puede que no te mienta.  \n \n Cuando llegáis a la pequeña ciudad de Tinian, y hacéis algunas pesquisas, os dais cuenta, desolados, que habéis recibido la alerta demasiado tarde. Alguien ha asesinado al piloto del Enola Gay. Japón conoce ahora los planes de Estados Unidos y la bomba atómica, frustrando los lanzamientos, y aplazando el fin de la IIGM. El cambio histórico ha ocurrido, y ahora no podéis volver. Evidentemente, el cambio en la línea temporal ha afectado al desarrollo de la tecnología en el viaje en el tiempo.  \n \n A partir de ahora no sabéis qué va a pasar, quizás nadie os rescate jamás. Mientras tanto, estáis atrapad@s en medio de una guerra que no sabéis cómo va a acabar. Vuestros conocimientos de la historia contemporánea ya no sirven para nada.",
+            "options": []
+        },
+        {
+            "id": "text-12",
+            "text": "Cuando Liz vuelve de las dependencias policiales y te señala el camino para volver. La miras en silencio y niegas con la cabeza. No le habías dicho nada, pero ya son muchos años trabajando juntos. Ha visto en primera línea tu deteriorio. Con solo cruzar la mirada, entiende lo que tiene que hacer. Sin detenerse más tiempo del necesario para no llamar la atención, asiente con la cabeza y se va hacia el punto de extracción. Tendrá que inventarse una historia creíble de que has desaparecido o, mejor aún, que te han matado. Al Ministerio Temporal no le gusta tener gente contemporánea merodeando por la historia. Las consencuencias pueden ser tremendas. \n \n Quizás algún día te vuelvas a cruzar con ella, si está en una misión en tu línea. Y podrás agradecerle el favor, si es que no la pillan. No sólo tú pagarás el precio de quedarte en Berlín aferrado a tus recuerdos. Quizás ella podría ser descubierta y encarcelada por cómplice por Obstrucción a la Justicia Intertemporal. \n \n Cuando Liz desaparece en el destello, te saluda con la mano, con una sonrisa y una mirada triste. Respiras profundamente y piensas qué harás de ahora en adelante. Tienes una gran ventana: conoces la historia. Lo que viene pronto es una guerra y no quieres estar Alemania cuando estalle. Te diriges hacia la estación de tren, mientras no dejas de pensar cuánta gente morirá durante la dictadura Nazi y si evitar que mataran a Hitler ha sido lo mejor..",
+            "options": []
+        },
+        {
+            "id": "text-13",
+            "text": "Tengo que escribir, tengo que escribir, te repites en voz baja, casi compulsivamente. Hojeas el diario hasta la última entrada, y lees \n \n \"Me acaban de decir que mi memoria está sufriendo daños irreversibles cada vez que viajamos. Noto cómo cada vez me cuesta más recuperar mis recuerdos cuando volvemos a nuestro tiempo. Tengo miedo de no volver nunca más, de perder toda mi vida definitivamente. Escribo esto antes de saltar a mi penúltima misión a la España de la Peste Negra. Nadie lo sabe. Pero tendré que elegir mi última misión con cuidado. Porque cuando vuelva, ya no seré yo nunca más.\"  \n \n A pesar de encontrar en los rincones de tu memoria tus recuerdos de tu vida personal, por más que te esfuerzas no consigues reconstruir la historia de tu última misión por completo. Está claro que el SMI está haciendo estragos en tu memoria.  \n \n Cuando te lo dijeron no tenías miedo a disolverte en la línea temporal para siempre. Pero el SMI es peor que simplemente perder la memoria, es perderse uno mismo para siempre.  \n \n Si te vuelves a ir, jamás recuperarás tus recuerdos. \n \n De repente la alarma de urgencia temporal se enciende. Esas son las graves de verdad, las que ponen en peligro toda la historia actual.  \n \n Tu sentido del deber te arranca de tus reflexiones. Al fin y al cabo, no atender la urgencia temporal puede significar simplemente no haber nacido en tu tiempo, ni nadie de la gente de tus recuerdos. \n \n - ¿qué tenemos? - pregunta Liz a un operario que hay frente a la máquina del tiempo.  \n \n - 8 de agosto, Tinian, Islas Marianas. Según nuestro informate en ese período, alguien está intentando asesinar al piloto del Enola Gay y evitar que se tire la bomba en Hiroshima al día siguiente  \n \n - Pero la bomba atómica supuso el final de la Segunda Guerra Mundial, si no la tiran quién sabe qué más podría haber pasado... no tenemos tiempo que perder, vámonos, te dice Liz-  \n \n",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Saltar en el tiempo, quedarme aquí con mis recuerdos puede no servir de nada",
+                    "output": "text-14"
+                },
+                {
+                    "id": "b",
+                    "optionText": "No quiero ir, me quedo aquí con mis recuerdos.",
+                    "output": "text-15"
+                }
+            ]
+        },
+        {
+            "id": "text-14",
+            "text": "De camino a la máquina, Liz te hace un resumen: eres un@ agente intertemporal. La última misión te retuvo en 1348 en pleno auge de la Peste Negra en España. Resolviste el problema y evitaste el cambio histórico. Pero tanto tiempo fuera de tu línea te ha causado daños cerebrales irreversibles. Tienes claros síntomas de Síndrome Memorístico Intertemporal. Tu jubilación forzada es inminente.  \n \n Cuando llegáis a la pequeña ciudad de Tinian, y hacéis algunas pesquisas, os dais cuenta, desolados, de que habéis recibido la alerta demasiado tarde. Alguien ha asesinado al piloto del avión Enola Gay. Japón conoce ahora los planes de Estados Unidos y la bomba atómica, frustrando los lanzamientos, y aplazando el fin de la Segunda Guerra Mundial. El cambio histórico ha ocurrido, y ahora no podéis volver. Evidentemente, el cambio en la línea temporal ha afectado al desarrollo de la tecnología del viaje en el tiempo.  \n \n A partir de ahora no sabéis qué va a pasar, quizás nadie os rescate jamás. Tampoco sabes durante cuánto tiempo estaréis cuerdos fuera de vuestra línea de tiempo.  \n \n Mientras tanto, estáis atrapad@s en medio de una guerra que no sabéis cómo va a acabar. Vuestros conocimientos de la historia contemporánea ya no sirven para nada...",
+            "options": []
+        },
+        {
+            "id": "text-15",
+            "text": "- No voy a ir, Liz - dices.  \n \n No te hace falta más. No se lo has dicho, pero ella ya lo sabe. Lo ha sufrido en primera persona con su padre y también contigo. Liz asiente en silencio y se dirige ella sola a la misión. Tienes un poco de cargo de conciencia. No es una misión fácil. Pero ella puede manejarlo.  \n \n Has decidido quedarte en tu tiempo, aferrad@ a tus recuerdos mientras ella evita el cambio temporal. El día transcurre sin sobresaltos. Procuras distraerte un poco, todo parece en orden.  \n \n         Al día siguiente abres los ojos y te sientes como renacid@. Necesitabas parar, y dejar que tu memoria se recuperara. Ahora está todo claro. Todos tus recuerdos, tu última misión, todo. Es momento de completar el diario, por las dudas. Y pensar qué vas a hacer ahora que te has retirado tan joven.  \n \n Te incorporas en la cama. Pero no es la cama de tu habitación del Ministerio. Ni si quiera estás en el Ministerio. Miras por la ventana y tampoco estás en la misma ciudad. Revuelves todo en busca de tu diario sin éxito. Buscas tu teléfono móvil, ¡bingo!  \n \n Al fin y al cabo parece que Liz no lo consiguió. La historia ha cambiado. Estás en 2008.",
+            "options": []
+        }
+    ]
+}

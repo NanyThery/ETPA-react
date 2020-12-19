@@ -1,0 +1,17 @@
+:root{
+  --main-title-red: rgb(204, 17, 17);
+  --regular-text-color: #404040;
+  --special-font: 'ETPA-Font', serif;
+  --regular-font: 'Montserrat', sans-serif;
+}
+
+
+.featured-font{
+  font-family: var(--special-font);
+}
+
+@font-face{
+  font-family: 'ETPA-Font';
+  src: url(./../components/styles/OPTIDanley-Bold.otf) format('opentype');
+}
+

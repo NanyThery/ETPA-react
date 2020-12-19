@@ -1,0 +1,130 @@
+{
+    "id": "ST-0003",
+    "title": "Un ejemplo para recordar",
+    "img": "https://picsum.photos/200/300?random=3",
+    "author": "Autor desconocido",
+    "volume": "3",
+    "paragraphs": [
+        {
+            "id": "start",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque congue ipsum tempor consectetur condimentum. Suspendisse imperdiet scelerisque placerat. In id facilisis felis. Nam mi erat, condimentum id lacus et, mollis faucibus ante. Curabitur id sollicitudin tellus, ornare tristique ligula. Fusce vulputate justo et eleifend pulvinar. Sed pharetra enim sit amet venenatis cursus. Donec lacinia ornare vestibulum. Curabitur sollicitudin vulputate eros in tincidunt. Quisque in est ultricies, cursus lacus et, facilisis nulla. Sed ultricies ex at nisi aliquam, in blandit nunc condimentum. Aenean semper sem eget purus suscipit, eu laoreet massa ultrices. Aliquam sit amet arcu sem.",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Opción 1",
+                    "output": "text-01a"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Opción 2",
+                    "output": "text-01b"
+                },
+                {
+                    "id": "c",
+                    "optionText": "Opción 3",
+                    "output": "text-03"
+                }
+            ]
+        },
+        {
+            "id": "text-01a",
+            "text": "Praesent at mollis diam, vitae placerat ipsum. Cras ut ullamcorper nunc, eu consectetur enim. Suspendisse non purus auctor, maximus sem in, efficitur mi. Donec maximus orci eget elit ultrices semper. Aenean non arcu eget neque volutpat luctus. Donec libero urna, tempus vel auctor eu, dapibus at arcu. Morbi ut nibh cursus, pulvinar turpis a, posuere tortor. Cras volutpat nisi in ante fringilla, quis cursus urna ornare. Pellentesque eget molestie nisl. Nullam efficitur vulputate turpis. Nam cursus commodo sem, eu feugiat mi molestie sit amet.",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Opcion 1",
+                    "output": "text-02"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Opcion 2",
+                    "output": "text-03"
+                }
+            ]
+        },
+        {
+            "id": "text-01b",
+            "text": "Pellentesque facilisis justo arcu, sit amet pharetra odio accumsan vitae. Nam mattis condimentum aliquet. Aliquam erat volutpat. Aenean consectetur mi in leo pharetra consequat. Donec interdum aliquam fermentum. Aenean eleifend sem purus, a efficitur ligula consequat et. Morbi a leo eu elit imperdiet tempus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed volutpat sapien blandit urna ullamcorper interdum. Maecenas accumsan tellus ut mauris volutpat scelerisque. Donec et venenatis lectus. Phasellus quis consectetur arcu. Maecenas faucibus nunc sagittis pulvinar porttitor. Pellentesque ac fringilla mi.",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Opcion 1",
+                    "output": "text-04"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Opcion2",
+                    "output": "text-05"
+                }
+            ]
+        },
+        {
+            "id": "text-02",
+            "text": "Curabitur eu vestibulum nunc, vel tincidunt diam. Nam porttitor et lacus eget accumsan. Morbi sagittis blandit mauris, bibendum bibendum lorem cursus ac. Pellentesque quis blandit sapien, ut eleifend massa. Praesent vel risus auctor, dictum erat sit amet, pharetra leo. Curabitur a magna id diam suscipit viverra eget vel arcu. Pellentesque nec dolor eget libero iaculis placerat. Proin accumsan dui metus, vitae rutrum nisl luctus vitae. Morbi id est id ante pretium commodo in tristique velit.",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Opcion 1",
+                    "output": "text-04"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Opcion 2",
+                    "output": "text-05"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Opcion 3",
+                    "output": "text-03"
+                }
+            ]
+        },
+        {
+            "id": "text-03",
+            "text": "Proin nec posuere magna, quis bibendum est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam ullamcorper justo nec condimentum faucibus. Ut luctus ultricies venenatis. In in iaculis augue, eget finibus nisl. Suspendisse non tellus in magna bibendum egestas eu quis tortor. Morbi eu metus magna. Aliquam quam lectus, malesuada quis vehicula sed, pellentesque vel nisi. Nunc posuere dapibus congue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin imperdiet quam non suscipit viverra. Quisque metus ipsum, viverra id cursus in, tristique id erat. Aliquam suscipit, eros a aliquet faucibus, urna purus convallis quam, fringilla venenatis lectus justo vitae neque. Pellentesque quis scelerisque massa. ESTO ES UN FINAL",
+            "options": []
+        },
+        {
+            "id": "text-04",
+            "text": "Curabitur tincidunt sed tortor et tempus. Praesent commodo laoreet pulvinar. Pellentesque quis rutrum tellus. Suspendisse orci est, viverra ut felis et, maximus mattis libero. Aliquam at facilisis mi. Aliquam faucibus egestas eleifend. Nunc nec ultrices orci. Ut ex lectus, iaculis eget tristique ut, laoreet quis massa. Donec id velit tincidunt, dignissim lectus eget, malesuada tellus. Sed bibendum, ex et fermentum congue, lectus metus pellentesque purus, sodales auctor enim orci a urna. Nunc quis est convallis, tempor dolor eget, porta erat. Nunc et convallis augue. Nunc sollicitudin massa nec tortor vehicula, ac sollicitudin erat laoreet. Donec at velit nec ex sagittis auctor. Duis varius nisi tellus, vel convallis odio maximus quis. Sed consectetur metus id neque iaculis dapibus.",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Opción 1",
+                    "output": "text-06"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Opción 2",
+                    "output": "text-03"
+                },
+                {
+                    "id": "c",
+                    "optionText": "Opción 3",
+                    "output": "text-05"
+                }
+            ]
+        },
+        {
+            "id": "text-05",
+            "text": "Nam id odio massa. Fusce nec luctus lorem, nec congue justo. Donec a felis ut ipsum tincidunt ullamcorper. Praesent in est vehicula, egestas dui id, aliquam sem. Nullam in tellus risus. Integer gravida eleifend tortor non tincidunt. Sed pulvinar tortor quis dolor suscipit, vitae suscipit turpis consectetur. Integer at scelerisque purus, quis rutrum nunc. Suspendisse turpis tortor, consequat in ligula eu, lacinia pretium augue. Donec pretium laoreet fermentum. Ut ullamcorper, risus sed finibus eleifend, lectus ipsum consequat urna, sed blandit erat quam sed nulla. Sed hendrerit faucibus egestas. Mauris pretium maximus mauris, quis convallis nunc fermentum at.",
+            "options": [
+                {
+                    "id": "a",
+                    "optionText": "Opción 1",
+                    "output": "text-06"
+                },
+                {
+                    "id": "b",
+                    "optionText": "Opción 2",
+                    "output": "text-03"
+                }
+            ]
+        },
+        {
+            "id": "text-06",
+            "text": "Praesent at mollis diam, vitae placerat ipsum. Cras ut ullamcorper nunc, eu consectetur enim. Suspendisse non purus auctor, maximus sem in, efficitur mi. Donec maximus orci eget elit ultrices semper. Aenean non arcu eget neque volutpat luctus. Donec libero urna, tempus vel auctor eu, dapibus at arcu. Morbi ut nibh cursus, pulvinar turpis a, posuere tortor. Cras volutpat nisi in ante fringilla, quis cursus urna ornare. Pellentesque eget molestie nisl. Nullam efficitur vulputate turpis. Nam cursus commodo sem, eu feugiat mi molestie sit amet. ESTO ES OTRO FINAL",
+            "options": []
+        }
+    ]
+}
