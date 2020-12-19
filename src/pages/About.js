@@ -65,7 +65,7 @@ class About extends React.Component {
 
 
                     <SocialContainer >
-                        <a href='https://github.com/NanyThery/EligeTuPropiaAventura'><i style={{ fontSize: "2em", color: 'var(--regular-text-color)' }} className="fab fa-github"></i></a>
+                        <a href='https://github.com/NanyThery/ETPA-react'><i style={{ fontSize: "2em", color: 'var(--regular-text-color)' }} className="fab fa-github"></i></a>
                     </SocialContainer>
 
                 </Card>
